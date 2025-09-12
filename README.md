@@ -23,5 +23,7 @@ Una foto:
 <https://github.com/user-attachments/assets/44a0ebea-0eb4-49fe-82d3-a9197f683aa2>
 
 Un enlace al aula virtual de python: https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/course/view.php?id=401
+
 Una tabla con el horario de 2o SMR:
 <img width="776" height="305" alt="image" src="https://github.com/user-attachments/assets/8552620a-71e6-4ba5-9fb9-12d91150be6c" />
+<https://github.com/user-attachments/assets/8552620a-71e6-4ba5-9fb9-12d91150be6c>
