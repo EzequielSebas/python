@@ -2,17 +2,17 @@
 school subject
 **Título: Grado medio segundo año**
 **2º SMR** 
-Nombre y apellidos: Sebastian ezequiel Guzman
-Correo de educamadrid: Sebastian.guzman1@educa.madrid.org
-Una lista no numerada de intereses relacionados con la informática: 
-Tu experiencia laboral: Practicas laborales
 
-Una lista numerada de tus aficiones:
+Nombre y apellidos: Sebastian ezequiel Guzman
+
+Correo de educamadrid: Sebastian.guzman1@educa.madrid.org
+
+Aficiones:
   1. Leer
   2. Escribir
   3. Jugar videojuegos
 
-Una lista no numerada de los idiomas que hablas:
+Idiomas:
   - Español
   - Ingles
 
